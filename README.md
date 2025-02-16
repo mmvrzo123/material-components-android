@@ -1,3 +1,4 @@
+
 [![Chat](https://img.shields.io/discord/259087343246508035.svg)](https://discord.gg/material-components)
 
 # Material Components for Android
